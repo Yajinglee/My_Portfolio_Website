@@ -9,6 +9,7 @@ Personal Data Science projects
 - Built interactive dashboard to filter popular books by year, award, and ratings using Tableau.
 
 ![](/images/Dashboard.png)
+
 ![](/images/Best_fantacy_books.png)
 
 ## Retail business analysis | Power BI
