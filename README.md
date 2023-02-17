@@ -25,11 +25,51 @@ Personal Data Science projects
 - Transformed data, created columns and measures with Query Editor and DAX calculation.
 - Built interactive reports to visualize sales performance with slicers, KPIs, drilldown, and various charts.
 
-![](/images/Executive_summary.png)
+<img src="/images/Executive_summary.png" width="80%" height="80%">
 
-![](/images/Product_detail.png)
+<img src="/images/Product_detail.png" width="80%" height="80%">
 
-![](/images/Customer_detail.png)
+<img src="/images/Customer_detail.png" width="80%" height="80%">
 
 
 ## [Project 3: Home credit default risk prediciton | Machine Learning, Python]()
+
+
+## [Project 4: Invenroty/Sales/Customer behavior analysis | SQL ](https://github.com/Yajinglee/SQL-Projects)
+
+This project aims to demonstrate the use of SQL to answer hypothetical sales and marketing questions about a DVD rental store with a MySQL database named Sakila.
+
+### Problem Description
+
+##### Inventory summary:
+
+- What's the total value of all the inventory and total inventory value of each store?
+- How many film are there in each category of each store, and the total inventory count?
+- How many films are there in each rating?
+- How's the film inventory level looks like?
+- Which actor/actress is in the most films in store inventory?
+
+##### Consumer behavior:
+
+- How many days do customer usually rent?
+- Do customer usually rent on weekdays or weekends?
+- What are the top films that customers rented for the longest days accumulatively, and rented for the most times?
+- Among the films that rented most frequently, are they usually rented on weekday or weekends?
+- What is the average rental period?
+- Which genres are most popular?
+- Who are identified as loyalty customers?
+- Were there customers who did not return the film?
+- Which actors/actresses are most popular given our rental history?
+
+##### Store performance:
+
+- How many stores are there and how many staff in each store?
+- What's the number of transaction each month for both store?
+- Which store has more customer rented the film?
+- Which store makes the most money?
+
+##### Sales summary:
+
+- What's the total revenue for the time period and for each month?
+- What's the most profitable move genres/rating?
+- Do we make the most money from long or short rentals?
