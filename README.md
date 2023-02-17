@@ -32,8 +32,12 @@ Personal Data Science projects
 <img src="/images/Customer_detail.png" width="80%" height="80%">
 
 
-## [Project 3: Home credit default risk prediciton | Machine Learning, Python]()
+## [Project 3: Home credit default risk prediciton | Machine Learning, Python](https://github.com/Yajinglee/Home-credit-default-risk-predict/blob/main/home-credit-default-risk-predict.ipynb)
 
+- Transformed categorical variables into dummy variables using label encoding and one-hot encoding. 
+- Checked missing records, anomalies, and correlations, and explored data through hist chart, KDE plot, and heatmap. 
+- Used polynomial features and domain knowledge to create new features. 
+- Implemented and compared Logistic Regression(baseline) and Decision Tree classification models
 
 ## [Project 4: Invenroty/Sales/Customer behavior analysis | SQL ](https://github.com/Yajinglee/SQL-Projects)
 
