@@ -1,4 +1,7 @@
+# Yajing's Portfolio
 <a href="https://www.linkedin.com/in/liyajing/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="3%" height="3%" /></a>
+
+# Projects
 
 ## [Project 1: Web Scraping GooodReads.com & Built book selection dashboard | Python, Tableau](https://github.com/Yajinglee/Web-Scraping-Project)
 
