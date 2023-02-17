@@ -15,11 +15,11 @@ Personal Data Science projects
 
 ![](/images/Dashboard-1.png)
 
-<img src="/images/Dashboard-1.png" width="80%" height="80%">
+<img src="images/Dashboard-1.png" width="80%" height="80%">
 
 #### Word cloud of awarded best fantacy books
 
-<img src="/images/Best_fantacy_books.png" width="80%" height="80%">
+<img src="images/Best_fantacy_books.png" width="80%" height="80%">
 
 ## Project 2: Retail business analysis | Power BI
 
