@@ -1,5 +1,5 @@
 # Yajing's Portfolio
-Data Science project portfolio
+Personal Data Science projects 
 
 ## [Web Scraping GooodReads.com/Built book selection dashboard](https://github.com/Yajinglee/Web-Scraping-Project)
 
@@ -11,3 +11,4 @@ Data Science project portfolio
 ![](/images/Dashboard.png)
 ![](/images/Best_fantacy_books.png)
 
+## []
