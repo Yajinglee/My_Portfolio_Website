@@ -3,6 +3,8 @@
 
 # Projects
 
+<hr>
+
 ## [Project 1: Web Scraping GooodReads.com & Built book selection dashboard | Python, Tableau](https://github.com/Yajinglee/Web-Scraping-Project)
 
 - Retrieved 4000+ awarded book information from the website and save to two csv files containing award and book details using Beautiful Soup, Selenium, and pandas.
@@ -18,6 +20,8 @@
 
 ![](/images/Best_fantacy_books.png)
 
+<hr>
+
 ## Project 2: Retail business analysis | Power BI
 
 - Connected data and built a relational model from 6 dimensional tables and 2 fact tables.
@@ -30,6 +34,7 @@
 
 ![](/images/Customer_detail.png)
 
+<hr>
 
 ## [Project 3: Home credit default risk prediciton | Machine Learning, Python](https://github.com/Yajinglee/Home-credit-default-risk-predict/blob/main/home-credit-default-risk-predict.ipynb)
 
@@ -37,6 +42,9 @@
 - Checked missing records, anomalies, and correlations, and explored data through hist chart, KDE plot, and heatmap. 
 - Used polynomial features and domain knowledge to create new features. 
 - Implemented and compared Logistic Regression(baseline) and Decision Tree classification models
+
+
+<hr>
 
 ## [Project 4: Invenroty/Sales/Customer behavior analysis | SQL ](https://github.com/Yajinglee/SQL-Projects)
 
