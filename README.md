@@ -3,7 +3,9 @@
 
 # Projects
 
+
 <hr>
+
 
 ## [Project 1: Web Scraping GooodReads.com & Built book selection dashboard | Python, Tableau](https://github.com/Yajinglee/Web-Scraping-Project)
 
@@ -20,7 +22,9 @@
 
 ![](/images/Best_fantacy_books.png)
 
+
 <hr>
+
 
 ## Project 2: Retail business analysis | Power BI
 
@@ -45,6 +49,7 @@
 
 
 <hr>
+
 
 ## [Project 4: Invenroty/Sales/Customer behavior analysis | SQL ](https://github.com/Yajinglee/SQL-Projects)
 
