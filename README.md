@@ -8,7 +8,7 @@ Personal Data Science projects
 - Explored awarded books and authors through data manipulation and visualization using pandas, matplotlib, and word cloud.
 - Built interactive dashboard to filter popular books by year, award, and ratings using Tableau.
 
-![](/images/Dashboard.png)
+![](/images/Dashboard-1.png)
 
 ![](/images/Best_fantacy_books.png)
 
