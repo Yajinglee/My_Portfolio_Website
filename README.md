@@ -13,6 +13,8 @@ Personal Data Science projects
 
 #### Tableau dashboard
 
+![](/images/Dashboard-1.png)
+
 <img src="/images/Dashboard-1.png" width="80%" height="80%">
 
 #### Word cloud of awarded best fantacy books
