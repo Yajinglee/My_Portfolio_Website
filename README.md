@@ -1,4 +1,4 @@
-# Yajing's Portfolio
+# [Yajing's Portfolio](https://www.linkedin.com/in/liyajing/)
 Personal Data Science projects 
 
 ## [Web Scraping GooodReads.com/Built book selection dashboard | Python, Tableau](https://github.com/Yajinglee/Web-Scraping-Project)
