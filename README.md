@@ -18,5 +18,7 @@ Personal Data Science projects
 - Built interactive reports to visualize sales performance with slicers, KPIs, drilldown, and various charts.
 
 ![](/images/Executive_summary.png)
+
 ![](/images/Product_detail.png)
+
 ![](/images/Customer_detail.png)
