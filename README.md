@@ -15,11 +15,9 @@ Personal Data Science projects
 
 ![](/images/Dashboard-1.png)
 
-<img src="images/Dashboard-1.png" width="80%" height="80%">
-
 #### Word cloud of awarded best fantacy books
 
-<img src="images/Best_fantacy_books.png" width="80%" height="80%">
+![](/images/Best_fantacy_books.png)
 
 ## Project 2: Retail business analysis | Power BI
 
@@ -27,11 +25,11 @@ Personal Data Science projects
 - Transformed data, created columns and measures with Query Editor and DAX calculation.
 - Built interactive reports to visualize sales performance with slicers, KPIs, drilldown, and various charts.
 
-<img src="/images/Executive_summary.png" width="80%" height="80%">
+![](/images/Executive_summary.png)
 
-<img src="/images/Product_detail.png" width="80%" height="80%">
+![](/images/Product_detail.png)
 
-<img src="/images/Customer_detail.png" width="80%" height="80%">
+![](/images/Customer_detail.png)
 
 
 ## [Project 3: Home credit default risk prediciton | Machine Learning, Python](https://github.com/Yajinglee/Home-credit-default-risk-predict/blob/main/home-credit-default-risk-predict.ipynb)
