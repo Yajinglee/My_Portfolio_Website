@@ -3,26 +3,37 @@
 
 # Projects
 
+## [Project 1: Retail business analysis | Power BI](https://github.com/Yajinglee/My_Portfolio_Website/raw/main/AdventureWorks_Report.pbix)
 
-<hr>
+#### Project description:
 
-
-## Project 1: Retail business analysis | Power BI
+The project 
 
 - Connected data and built a relational model from 6 dimensional tables and 2 fact tables.
 - Transformed data, created columns and measures with Query Editor and DAX calculation.
 - Built interactive reports to visualize sales performance with slicers, KPIs, drilldown, and various charts.
 
+#### Data model
+![](/images/Data_model.png)
+
+#### Executive summary
+
 ![](/images/Executive_summary.png)
 
+#### Product detail
 ![](/images/Product_detail.png)
 
+#### Customer Detail
 ![](/images/Customer_detail.png)
 
 
 ## [Project 2: Web Scraping GoodReads.com & Built book selection dashboard | Python, Tableau](https://github.com/Yajinglee/Web-Scraping-Project)
 
-- The project was aimed to scraping all the books the won the Choice Awarded on GoodRead.com
+#### Project description:
+
+The project was aimed to scrape all the books that won the Choice Awarded on GoodRead.com and build a book selection dashboard for book lovers to choose the books and authors by awards, year, and ratings for their next reading.
+
+#### Project details:
 
 - Retrieved 4000+ awarded book information from the website and saved to two csv files containing awards and book details using Beautiful Soup, Selenium, and pandas.
 - Replaced values, split/added/renamed/dropped columns, and dropped duplicated values using pandas.
@@ -30,7 +41,7 @@
 - Built interactive dashboard to filter popular books and authors by year and award using Tableau.
 
 #### Awarded books dataframe
-
+The awarded books dataframe 
 ![Awarded books](/images/Awarded_Books.png)
 
 #### Book details 
