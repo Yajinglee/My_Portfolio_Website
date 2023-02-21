@@ -1,13 +1,13 @@
 # Yajing's Portfolio
 <a href="https://www.linkedin.com/in/liyajing/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="3%" height="3%" /></a>
 
-# Projects
-
 ## [Project 1: Retail business analysis | Power BI](https://github.com/Yajinglee/My_Portfolio_Website/raw/main/AdventureWorks_Report.pbix)
 
 #### Project description:
 
 The project 
+
+#### Project details:
 
 - Connected data and built a relational model from 6 dimensional tables and 2 fact tables.
 - Transformed data, created columns and measures with Query Editor and DAX calculation.
@@ -40,11 +40,13 @@ The project was aimed to scrape all the books that won the Choice Awarded on Goo
 - Explored awarded books and authors through data manipulation and visualization using pandas, matplotlib, and word cloud.
 - Built interactive dashboard to filter popular books and authors by year and award using Tableau.
 
-#### Awarded books dataframe
-The awarded books dataframe 
+#### Dataframe
+
+- Awarded books dataframe
+
 ![Awarded books](/images/Awarded_Books.png)
 
-#### Book details 
+- Book details dataframe
 
 ![Book details](/images/Book_Details.png)
 
@@ -53,16 +55,12 @@ The awarded books dataframe
 ![Word Cloud](/images/Best_fantacy_books.png)
 
 
-
 #### [Tableau dashboard](https://public.tableau.com/app/profile/yajing.li/viz/GoodReadsAwardedBooks/Dashboard?publish=yes)
 
 Top Books and Authors winning the 'Best fantasy books' award with rating above 4.5 in 2022
 
 ![Top Books and Authors winning the 'Best fantasy books' award with rating above 4.5 in 2022
 ](/images/Dashboard.png)
-
-<hr>
-
 
 <hr>
 
