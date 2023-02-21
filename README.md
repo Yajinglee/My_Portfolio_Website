@@ -29,13 +29,13 @@
 - Explored awarded books and authors through data manipulation and visualization using pandas, matplotlib, and word cloud.
 - Built interactive dashboard to filter popular books and authors by year and award using Tableau.
 
-#### Awarded books 
+#### Awarded books dataframe
 
 ![Awarded books](/images/Awarded_Books.png)
 
 #### Book details 
 
-![Book details](/image/Book_Details.png)
+![Book details](/images/Book_Details.png)
 
 #### Word cloud (Python wordcloud)
 
