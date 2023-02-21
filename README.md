@@ -57,7 +57,7 @@ The project was aimed to scrape all the books that won the Choice Awarded on Goo
 
 #### [Tableau dashboard](https://public.tableau.com/app/profile/yajing.li/viz/GoodReadsAwardedBooks/Dashboard?publish=yes)
 
-Top Books and Authors winning the 'Best fantasy books' award with rating above 4.5 in 2022
+The screenshot below shows the top books and authors winning the 'Best fantasy books' award with the rating above 4.5 in 2022
 
 ![Top Books and Authors winning the 'Best fantasy books' award with rating above 4.5 in 2022
 ](/images/Dashboard.png)
