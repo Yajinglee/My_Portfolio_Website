@@ -7,25 +7,7 @@
 <hr>
 
 
-## [Project 1: Web Scraping GooodReads.com & Built book selection dashboard | Python, Tableau](https://github.com/Yajinglee/Web-Scraping-Project)
-- Retrieved 4000+ awarded book information from the website and saved to two csv files containing awards and book details using Beautiful Soup, Selenium, and pandas.
-- Replaced values, split/added/renamed/dropped columns, and dropped duplicated values using pandas.
-- Explored awarded books and authors through data manipulation and visualization using pandas, matplotlib, and word cloud.
-- Built interactive dashboard to filter popular books and authors by year and award using Tableau.
-
-#### Tableau dashboard
-
-![](/images/Dashboard-1.png)
-
-#### Word cloud of awarded best fantacy books
-
-![](/images/Best_fantacy_books.png)
-
-
-<hr>
-
-
-## Project 2: Retail business analysis | Power BI
+## Project 1: Retail business analysis | Power BI
 
 - Connected data and built a relational model from 6 dimensional tables and 2 fact tables.
 - Transformed data, created columns and measures with Query Editor and DAX calculation.
@@ -36,6 +18,34 @@
 ![](/images/Product_detail.png)
 
 ![](/images/Customer_detail.png)
+
+
+## [Project 2: Web Scraping GoodReads.com & Built book selection dashboard | Python, Tableau](https://github.com/Yajinglee/Web-Scraping-Project)
+
+- The project 
+
+- Retrieved 4000+ awarded book information from the website and saved to two csv files containing awards and book details using Beautiful Soup, Selenium, and pandas.
+- Replaced values, split/added/renamed/dropped columns, and dropped duplicated values using pandas.
+- Explored awarded books and authors through data manipulation and visualization using pandas, matplotlib, and word cloud.
+- Built interactive dashboard to filter popular books and authors by year and award using Tableau.
+
+
+#### Word cloud (Python wordcloud)
+
+
+
+![](/images/Best_fantacy_books.png)
+
+
+
+#### [Tableau dashboard](https://public.tableau.com/app/profile/yajing.li/viz/GoodReadsAwardedBooks/Dashboard?publish=yes)
+
+Top Books and Authors winning the 'Best fantasy books' award with rating above 4.5 in 2022
+
+![](/images/Dashboard.png)
+
+<hr>
+
 
 <hr>
 
