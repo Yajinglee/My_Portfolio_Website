@@ -22,19 +22,24 @@
 
 ## [Project 2: Web Scraping GoodReads.com & Built book selection dashboard | Python, Tableau](https://github.com/Yajinglee/Web-Scraping-Project)
 
-- The project 
+- The project was aimed to scraping all the books the won the Choice Awarded on GoodRead.com
 
 - Retrieved 4000+ awarded book information from the website and saved to two csv files containing awards and book details using Beautiful Soup, Selenium, and pandas.
 - Replaced values, split/added/renamed/dropped columns, and dropped duplicated values using pandas.
 - Explored awarded books and authors through data manipulation and visualization using pandas, matplotlib, and word cloud.
 - Built interactive dashboard to filter popular books and authors by year and award using Tableau.
 
+#### Awarded books 
+
+![Awarded books](/images/Awarded_Books.png)
+
+#### Book details 
+
+![Book details](/image/Book_Details.png)
 
 #### Word cloud (Python wordcloud)
 
-
-
-![](/images/Best_fantacy_books.png)
+![Word Cloud](/images/Best_fantacy_books.png)
 
 
 
@@ -42,7 +47,8 @@
 
 Top Books and Authors winning the 'Best fantasy books' award with rating above 4.5 in 2022
 
-![](/images/Dashboard.png)
+![Top Books and Authors winning the 'Best fantasy books' award with rating above 4.5 in 2022
+](/images/Dashboard.png)
 
 <hr>
 
