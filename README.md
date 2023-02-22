@@ -50,9 +50,13 @@ The project was aimed to scrape all the books that won the Choice Awarded on Goo
 
 ![Book details](/images/Book_Details.png)
 
-#### Word cloud (Python wordcloud)
+#### Word cloud
 
-![Word Cloud](/images/Best_fantacy_books.png)
+Python wordcloud library was used to create word clouds. 
+
+The screenshot below show the books that won the 'Best fiction' award in 2011 that has ratings above 3.5.
+
+![Word Cloud](/images/best_fiction_book_wordcloud.png)
 
 
 #### [Tableau dashboard](https://public.tableau.com/app/profile/yajing.li/viz/GoodReadsAwardedBooks/Dashboard?publish=yes)
@@ -62,7 +66,6 @@ The screenshot below shows the top books and authors winning the 'Best fantasy b
 ![Top Books and Authors winning the 'Best fantasy books' award with rating above 4.5 in 2022
 ](/images/Dashboard.png)
 
-<hr>
 
 ## [Project 3: Home credit default risk prediciton | Machine Learning, Python](https://github.com/Yajinglee/Home-credit-default-risk-predict/blob/main/home-credit-default-risk-predict.ipynb)
 
@@ -70,9 +73,6 @@ The screenshot below shows the top books and authors winning the 'Best fantasy b
 - Checked missing records, anomalies, and correlations, and explored data through hist chart, KDE plot, and heatmap. 
 - Used polynomial features and domain knowledge to create new features. 
 - Implemented and compared Logistic Regression(baseline) and Decision Tree classification models
-
-
-<hr>
 
 
 ## [Project 4: Invenroty/Sales/Customer behavior analysis | SQL ](https://github.com/Yajinglee/SQL-Projects)
