@@ -3,27 +3,54 @@
 
 ## [Project 1: Retail business analysis | Power BI](https://github.com/Yajinglee/My_Portfolio_Website/raw/main/AdventureWorks_Report.pbix)
 
-#### Project description:
+### Project description:
 
-The project 
+This project was aimed to delivered a business intelligence solution and gain actionable insights from 8 csv files containing products, customers, sales and returns of a retail business names AdventureWorks.
 
-#### Project details:
+### Project details:
 
-- Connected data and built a relational model from 6 dimensional tables and 2 fact tables.
+- Loaded the data and create data model using snowflack schema from 6 dimensional tables and 2 fact tables.
 - Transformed data, created columns and measures with Query Editor and DAX calculation.
-- Built interactive reports to visualize sales performance with slicers, KPIs, drilldown, and various charts.
+- Built interactive reports to visualize sales performance with slicers, KPIs, drilldown, and various charts including tree map, line and bar chart, donut chart and garge. 
 
-#### Data model
+### Data model:
+
+- AW_Sales and AW_Returns are the 2 facts tables.
+- Customer, Territory, Calendar, Product, Product Category, Product Subcategory are the 6 dimention tables.
+
 ![](/images/Data_model.png)
 
-#### Executive summary
+### Executive summary:
 
-![](/images/Executive_summary.png)
+The executive summary dashboard provided an overview of the sales performance across difference countries over 2015 to June 2017. 
 
-#### Product detail
+What does the executive summary tell us?
+- Bike was the only product AdventureWorks sold in 2015. Starting from June 2016, it introducted new products incluidng accessories and clothes, which could be one of the major reasons of the profit increase by 53% comparing from 2015 to 2016.
+- In 2016, bike is the most ordered product category in Australia and least ordered product category in Canada, and the possible reason behind this could be that the weather condition in Australia is more suitable for biking all year round, whereas in Canada, only few months in a year is good for outdoor biking.
+- The United State and Australia are the top 2 countries that brought the most profit, and there was also a 100% increase in profit in countries in Europe from 2015 to 2016.
+- Total product sold in 2017 already exceed the amount 2016 by 25% even thought there were only 6 months data in 2017. The profit in 2017 is almost equal to it in 2016. So, AdventureWorks had a hugh growth in 2017.
+
+#### Executive Summary of 2015
+
+![](/images/2015_executive_summary.png)
+
+#### Executive Summary of 2016
+
+![](/images/2016_executive_summary.png)
+
+#### Executive Summary of 2017
+
+![](/images/2017_executive_summary.png)
+
+
+### Product detail
+
+
+
+
 ![](/images/Product_detail.png)
 
-#### Customer Detail
+### Customer Detail
 ![](/images/Customer_detail.png)
 
 
@@ -52,12 +79,11 @@ The project was aimed to scrape all the books that won the Choice Awarded on Goo
 
 #### Word cloud
 
-Python wordcloud library was used to create word clouds. 
+Python wordcloud library was used to create the word clouds. 
 
 The screenshot below show the books that won the 'Best fiction' award in 2011 that has ratings above 3.5.
 
 ![Word Cloud](/images/best_fiction_book_wordcloud.png)
-
 
 #### [Tableau dashboard](https://public.tableau.com/app/profile/yajing.li/viz/GoodReadsAwardedBooks/Dashboard?publish=yes)
 
