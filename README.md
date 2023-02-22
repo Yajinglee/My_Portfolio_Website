@@ -30,10 +30,14 @@ What does the executive summary tell us?
 - The United State and Australia are the top 2 countries that brought the most profit, and there was also a 100% increase in profit in countries in Europe from 2015 to 2016.
 - Total product sold in 2017 already exceed the amount 2016 by 25% even thought there were only 6 months data in 2017. The profit in 2017 is almost equal to it in 2016. So, AdventureWorks had a hugh growth in 2017.
 
+#### Executive Summary from 2015 to 2017
+
+![](/images/2015-2017_executive_summary_1.png)
+
+
 #### Executive Summary of 2015
 
 ![](/images/2015_executive_summary.png)
-
 #### Executive Summary of 2016
 
 ![](/images/2016_executive_summary.png)
@@ -44,7 +48,6 @@ What does the executive summary tell us?
 
 
 ### Product detail
-
 
 
 
