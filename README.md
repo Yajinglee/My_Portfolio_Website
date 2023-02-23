@@ -20,7 +20,9 @@ This project was aimed to delivered a business intelligence solution and gain ac
 
 ![](/images/Data_model.png)
 
-### Executive summary:
+### Dashboards:
+
+#### 1. Executive Summary:
 
 The executive summary dashboard provided an overview of the sales performance across difference countries over 2015 to June 2017. 
 
@@ -42,19 +44,23 @@ What does the executive summary tell us?
 
 ![](/images/2017_executive_summary.png)
 
+#### 2. Product Detail:
 
-### Product detail
+The product detail dashboard provided the detailed sales information about one specific product. The product name can be selected on the executive summary dashboard, and drilled through to the product detail dashborad for more inforamtion.
 
-The product detail dashboard provided the detailed sales information for one product. In terms of which product was showing on the product detail dashboard, the target product name can be selected on the executive summary dashboard, and drilled thorough to the product detail dashborad for more inforamtion.
+I'll take mountain bike 200 silver 46, which is one of the most profitable product, as an example. I would like to see how the sales performance looks like from 2016 to 2017. 
 
-Mountaib bike 200 silver 46 is one of the most profitale product. So I would like to see how the sales performance between 2016 and 2017.
+#### Mountain bike sales detail in 2016
 
 ![](/images/2016_mountain_bike.png)
+
+#### Mountain bike sales detail in 2017
 
 ![](/images/2017_mountain_bike.png)
 
 
-### Customer Detail
+#### 3. Customer Detail:
+
 ![](/images/Customer_detail.png)
 
 
