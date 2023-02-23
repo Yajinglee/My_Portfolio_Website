@@ -5,11 +5,11 @@
 
 ### Project description:
 
-This project was aimed to delivered a business intelligence solution and gain actionable insights from 8 csv files containing products, customers, sales and returns of a retail business names AdventureWorks.
+This project was aimed to delivered a business intelligence solution and gain actionable insights from 8 csv files containing products, customers, sales and returns data of a retail business named AdventureWorks.
 
 ### Project details:
 
-- Loaded the data and create data model using snowflack schema from 6 dimensional tables and 2 fact tables.
+- Loaded the data and create data model using snowflake schema from 6 dimentional tables and 2 fact tables.
 - Transformed data, created columns and measures with Query Editor and DAX calculation.
 - Built interactive reports to visualize sales performance with slicers, KPIs, drilldown, and various charts including tree map, line and bar chart, donut chart and garge. 
 
@@ -40,9 +40,13 @@ The executive summary dashboard provided an overview of the sales performance ac
 #### Insights:
 
 - Bike was the only product AdventureWorks sold in 2015. Starting from June 2016, it introducted new products incluidng accessories and clothes, which could be one of the major reasons of the profit increase by 53% comparing from 2015 to 2016.
+
 - In 2016, bike is the most ordered product category in Australia and least ordered product category in Canada, and the possible reason behind this could be that the weather condition in Australia is more suitable for biking all year round, whereas in Canada, only few months in a year is good for outdoor biking.
+
 - The United State and Australia are the top 2 countries that brought the most profit, and there was also a 100% increase in profit in countries in Europe from 2015 to 2016.
+
 - Total product sold in 2017 already exceed the amount 2016 by 25% even thought there were only 6 months data in 2017. The profit in 2017 is almost equal to it in 2016. So, AdventureWorks had a hugh growth in 2017.
+
 - Looking at the proudcts, Waterbottle is the product that AdventureWorks sold for the most amount, and all the mountain bikes are the top revenue generators for AdventureWorks.
 
 #### 2. Product Details:
@@ -62,14 +66,28 @@ I'll take mountain bike 200 black 42, which is one of the most profitable produc
 #### Insights:
 
 - Both revenue and number of orders of mountain bike 200 black 42 in 2017 exceeded 2016 as well as the target, with an increase of 62.5% with both measures.
+
 - There wasn't a noticable increase in the number of returns despite the increase in the number of orders. 
+
 - Number of bikes sold in June of 2016 and 2017 both showed the sample pattern which is that the second week of the month having the most number of bikes sold.
 
+#### 3. Customer Details:
 
-#### 3. Customer Detail:
+The customer details dashboard visulized the customers data including  age group, occupation, income level, gender, total order placed and total revenue generated.
 
-![](/images/Customer_detail.png)
+The below screenshow showed the customer who placed order in 2016. 
 
+![](/images/2016_customer_detail.png)
+
+#### Insights:
+
+- More than half of AdventureWork's customers are in their 50s or 60s.
+
+- Mrs. Janet Munoz brought the most profit to AdventureWorks with 5 orders.
+
+- There is no significant differnce between genders in terms of the customers who place the orders.
+
+- Profesional, skilled manual, and management accounted for the 3 major occupations of customers.
 
 ## [Project 2: Web Scraping GoodReads.com & Built book selection dashboard | Python, Tableau](https://github.com/Yajinglee/Web-Scraping-Project)
 
