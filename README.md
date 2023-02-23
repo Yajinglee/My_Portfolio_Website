@@ -3,17 +3,17 @@
 
 ## [Project 1: Retail business analysis | Power BI](https://github.com/Yajinglee/My_Portfolio_Website/raw/main/AdventureWorks_Report.pbix)
 
-### Project description:
+### Project Description:
 
 This project was aimed to delivered a business intelligence solution and gain actionable insights from 8 csv files containing products, customers, sales and returns data of a retail business named AdventureWorks.
 
-### Project details:
+### Project Details:
 
 - Loaded the data and create data model using snowflake schema from 6 dimentional tables and 2 fact tables.
 - Transformed data, created columns and measures with Query Editor and DAX calculation.
 - Built interactive reports to visualize sales performance with slicers, KPIs, drilldown, and various charts including tree map, line and bar chart, donut chart and garge. 
 
-### Data model:
+### Data Model:
 
 - AW_Sales and AW_Returns are the 2 facts tables.
 - Customer, Territory, Calendar, Product, Product Category, Product Subcategory are the 6 dimention tables.
@@ -91,11 +91,11 @@ The below screenshow showed the customer who placed order in 2016.
 
 ## [Project 2: Web Scraping GoodReads.com & Built book selection dashboard | Python, Tableau](https://github.com/Yajinglee/Web-Scraping-Project)
 
-#### Project description:
+#### Project Description:
 
 The project was aimed to scrape all the books that won the Choice Awarded on GoodRead.com and build a book selection dashboard for book lovers to choose the books and authors by awards, year, and ratings for their next reading.
 
-#### Project details:
+#### Project Details:
 
 - Retrieved 4000+ awarded book information from the website and saved to two csv files containing awards and book details using Beautiful Soup, Selenium, and pandas.
 - Replaced values, split/added/renamed/dropped columns, and dropped duplicated values using pandas.
@@ -124,16 +124,21 @@ The screenshot below show the books that won the 'Best fiction' award in 2011 th
 
 The screenshot below shows the top books and authors winning the 'Best fantasy books' award with the rating above 4.5 in 2022
 
-![Top Books and Authors winning the 'Best fantasy books' award with rating above 4.5 in 2022
-](/images/Dashboard.png)
+![](/images/Dashboard.png)
 
 
 ## [Project 3: Home credit default risk prediciton | Machine Learning, Python](https://github.com/Yajinglee/Home-credit-default-risk-predict/blob/main/home-credit-default-risk-predict.ipynb)
 
+#### Project Description:
+
+The purpose of this project is to predict clients' repayment abilities for an internantional finance provider named Home Credit. The dataset containing 122 columns and more than 300k records.  
+
+#### Project Details:
+
 - Transformed categorical variables into dummy variables using label encoding and one-hot encoding. 
 - Checked missing records, anomalies, and correlations, and explored data through hist chart, KDE plot, and heatmap. 
 - Used polynomial features and domain knowledge to create new features. 
-- Implemented and compared Logistic Regression(baseline) and Decision Tree classification models
+- Implemented and compared Logistic Regression(baseline) and Decision Tree classification models, measured by ROC-AUC score.
 
 
 ## [Project 4: Invenroty/Sales/Customer behavior analysis | SQL ](https://github.com/Yajinglee/SQL-Projects)
