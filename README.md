@@ -59,7 +59,12 @@ I'll take mountain bike 200 black 42, which is one of the most profitable produc
 
 ![](/images/2017_june_mountain_bike.png)
 
-Compared with the sales in 2016, the sales performance of mountain bike 200 black 42 in 2017 did not reached the goals as expected in general. 
+#### Insights:
+
+- Both revenue and number of orders of mountain bike 200 black 42 in 2017 exceeded 2016 as well as the target, with an increase of 62.5% with both measures.
+- There wasn't a noticable increase in the number of returns despite the increase in the number of orders. 
+- Number of bikes sold in June of 2016 and 2017 both showed the sample pattern which is that the second week of the month having the most number of bikes sold.
+
 
 #### 3. Customer Detail:
 
