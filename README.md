@@ -44,17 +44,17 @@ What does the executive summary tell us?
 
 ![](/images/2017_executive_summary.png)
 
-#### 2. Product Detail:
+#### 2. Product Details:
 
-The product detail dashboard provided the detailed sales information about one specific product. The product name can be selected on the executive summary dashboard, and drilled through to the product detail dashborad for more inforamtion.
+The product detail dashboard provided the detailed sales information about one specific product. The product name can be selected on the executive summary dashboard, and drilled through to the product detail dashborad for more inforamtion. 
 
-I'll take mountain bike 200 silver 46, which is one of the most profitable product, as an example. I would like to see how the sales performance looks like from 2016 to 2017. 
+I'll take mountain bike 200 silver 46, which is one of the most profitable product, as an example. I would like to see how the sales performance looks like comparing with the first half year of 2016 and 2017 in Australia.
 
-#### Mountain bike sales detail in 2016
+#### Mountain bike sales detail in first half year of 2016 in Australia
 
 ![](/images/2016_mountain_bike.png)
 
-#### Mountain bike sales detail in 2017
+#### Mountain bike sales detail in first half year of 2017 in Australia
 
 ![](/images/2017_mountain_bike.png)
 
