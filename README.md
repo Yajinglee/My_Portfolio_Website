@@ -26,13 +26,6 @@ This project was aimed to delivered a business intelligence solution and gain ac
 
 The executive summary dashboard provided an overview of the sales performance across difference countries over 2015 to June 2017. 
 
-What does the executive summary tell us?
-- Bike was the only product AdventureWorks sold in 2015. Starting from June 2016, it introducted new products incluidng accessories and clothes, which could be one of the major reasons of the profit increase by 53% comparing from 2015 to 2016.
-- In 2016, bike is the most ordered product category in Australia and least ordered product category in Canada, and the possible reason behind this could be that the weather condition in Australia is more suitable for biking all year round, whereas in Canada, only few months in a year is good for outdoor biking.
-- The United State and Australia are the top 2 countries that brought the most profit, and there was also a 100% increase in profit in countries in Europe from 2015 to 2016.
-- Total product sold in 2017 already exceed the amount 2016 by 25% even thought there were only 6 months data in 2017. The profit in 2017 is almost equal to it in 2016. So, AdventureWorks had a hugh growth in 2017.
-- Looking at the proudcts, Waterbottle is the product that AdventureWorks sold for the most amount, and all the mountain bikes are the top revenue generators for AdventureWorks.
-
 #### Executive Summary of 2015
 
 ![](/images/2015_executive_summary.png)
@@ -44,20 +37,29 @@ What does the executive summary tell us?
 
 ![](/images/2017_executive_summary.png)
 
+#### Insights:
+
+- Bike was the only product AdventureWorks sold in 2015. Starting from June 2016, it introducted new products incluidng accessories and clothes, which could be one of the major reasons of the profit increase by 53% comparing from 2015 to 2016.
+- In 2016, bike is the most ordered product category in Australia and least ordered product category in Canada, and the possible reason behind this could be that the weather condition in Australia is more suitable for biking all year round, whereas in Canada, only few months in a year is good for outdoor biking.
+- The United State and Australia are the top 2 countries that brought the most profit, and there was also a 100% increase in profit in countries in Europe from 2015 to 2016.
+- Total product sold in 2017 already exceed the amount 2016 by 25% even thought there were only 6 months data in 2017. The profit in 2017 is almost equal to it in 2016. So, AdventureWorks had a hugh growth in 2017.
+- Looking at the proudcts, Waterbottle is the product that AdventureWorks sold for the most amount, and all the mountain bikes are the top revenue generators for AdventureWorks.
+
 #### 2. Product Details:
 
 The product detail dashboard provided the detailed sales information about one specific product. The product name can be selected on the executive summary dashboard, and drilled through to the product detail dashborad for more inforamtion. 
 
-I'll take mountain bike 200 silver 46, which is one of the most profitable product, as an example. I would like to see how the sales performance looks like comparing with the first half year of 2016 and 2017 in Australia.
+I'll take mountain bike 200 black 42, which is one of the most profitable product, as an example. I would like to see how the sales performance looks like comparing with June 2016 and June 2017 in Australia.
 
-#### Mountain bike sales detail in first half year of 2016 in Australia
+#### Mountain bike sales detail in June 2016 in Australia
 
-![](/images/2016_mountain_bike.png)
+![](/images/2016_june_mountain_bike.png)
 
-#### Mountain bike sales detail in first half year of 2017 in Australia
+#### Mountain bike sales detail in June 2017 in Australia
 
-![](/images/2017_mountain_bike.png)
+![](/images/2017_june_mountain_bike.png)
 
+Compared with the sales in 2016, the sales performance of mountain bike 200 black 42 in 2017 did not reached the goals as expected in general. 
 
 #### 3. Customer Detail:
 
