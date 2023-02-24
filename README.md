@@ -146,7 +146,7 @@ The purpose of this project is to predict clients' repayment abilities for an in
 - Implemented and compared Logistic Regression(baseline) and Decision Tree classification models, measured by ROC-AUC score.
 
 
-## [Project 4: Sakila DVD rental data analysis | SQL ](https://github.com/Yajinglee/SQL-Projects)
+## [Project 4: Sakila DVD rental data analysis | SQL, Python(pandas, seaborn, matplotlib)](https://github.com/Yajinglee/SQL-Projects)
 
 #### Project Description:
 
@@ -165,13 +165,22 @@ Dataset was connected in MySQL Workbench, and then Jupyter Notebook was set up t
 - What's the total value of all the inventory and total inventory value of each store?
 - How many film are there in each category of each store, and the total inventory count?
 - How many films are there in each rating?
+
+![](/images/Film_rating.png)
+
 - How's the film inventory level looks like?
+
+![](/images/Inventory_level.png)
+
 - Which actor/actress is in the most films in store inventory?
 
 #### Consumer behavior:
 
 - How many days do customer usually rent?
 - Do customer usually rent on weekdays or weekends?
+
+![](/images/rental_day.png)
+
 - What are the top films that customers rented for the longest days accumulatively, and rented for the most times?
 - Among the films that rented most frequently, are they usually rented on weekday or weekends?
 - What is the average rental period?
@@ -184,11 +193,17 @@ Dataset was connected in MySQL Workbench, and then Jupyter Notebook was set up t
 
 - How many stores are there and how many staff in each store?
 - What's the number of transactions each month for both store?
+
+![](/images/stores_transactions.png)
+
 - Which store has more customer rented the film?
 - Which store makes the most money?
 
 #### Sales summary:
 
 - What's the total revenue for the time period and for each month?
+
+![](/images/store_sales.png)
+
 - What's the most profitable move genres/rating?
 - Do we make the most money from long or short rentals?
