@@ -9,7 +9,7 @@ This project was aimed to deliver a business intelligence solution and gain acti
 
 ### Project Details:
 
-- Loaded the data and create data model using snowflake schema from 6 dimensional tables and 2 fact tables.
+- Loaded the data and created data model using snowflake schema from 6 dimensional tables and 2 fact tables.
 - Transformed data, created columns and measures with Query Editor and DAX calculation.
 - Built interactive reports to visualize sales performance with slicers, KPIs, drilldown, and various charts including tree map, line and bar chart, donut chart and gauge chart. 
 
@@ -132,7 +132,7 @@ The screenshot below shows the top books and authors winning the 'Best fantasy b
 
 #### Project Description:
 
-The purpose of this project is to predict clients' repayment abilities for an international finance provider named Home Credit. The dataset containing 122 columns and more than 300k records.   
+The goal of this project was to predict clients' repayment abilities for an international finance provider named Home Credit. The dataset containing 122 columns and more than 300k records.   
 
 #### Dataset:
 
@@ -150,9 +150,9 @@ The purpose of this project is to predict clients' repayment abilities for an in
 
 #### Project Description:
 
-This project aims to use SQL queries to explore the DVD rental dataset to gain an understanding of inventory level, consumer behavior, store sales and performance.
+This project aimed to use SQL queries to explore the DVD rental dataset to gain an understanding of inventory level, consumer behavior, store sales and performance.
 
-Dataset was connected in MySQL Workbench, and then Jupyter Notebook was set up to access data from MySQL databases by loading the sql magic jupyter notebook extension.
+Dataset was connected in MySQL Workbench, and then Jupyter Notebook was set up to access data from MySQL databases by loading the SQL magic jupyter notebook extension.
 
 #### Sakila Database Entity Relationship Diagram(ERD)
 
