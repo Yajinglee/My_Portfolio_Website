@@ -74,7 +74,12 @@ I'll take mountain bike 200 black 42, which is one of the most profitable produc
 
 #### 3. Customer Details:
 
-The customer details dashboard visualized the customers data including age group, occupation, income level, gender, total order placed and total revenue generated.
+The customer details dashboard visualized the customers data including age group, occupation, income level, total order placed and total revenue generated.
+
+The below screenshot showed the customer who placed order in 2016.
+
+![](/images/customer_detail.png)
+
 
 The below screenshot showed the customer who placed order in 2016 with average income.
 
@@ -92,9 +97,9 @@ The below screenshot showed the customer who placed order in 2016 with low incom
 
 - Mrs. Janet Munoz brought the most profit to Adventure Works with 5 orders.
 
-- There is no significant difference between genders in terms of the customers who place the orders.
-
 - Professional, skilled manual, and management accounted for the 3 major occupations of customers.
+
+- 
 
 ## [Project 2: Web Scraping GoodReads.com & Built book selection dashboard | Python, Tableau](https://github.com/Yajinglee/Web-Scraping-Project)
 
