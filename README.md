@@ -76,9 +76,15 @@ I'll take mountain bike 200 black 42, which is one of the most profitable produc
 
 The customer details dashboard visualized the customers data including age group, occupation, income level, gender, total order placed and total revenue generated.
 
-The below screenshot showed the customer who placed order in 2016. 
+The below screenshot showed the customer who placed order in 2016 with average income.
 
-![](/images/2016_customer_detail.png)
+![](/images/customer_avg_income.png)
+
+
+The below screenshot showed the customer who placed order in 2016 with low income.
+
+![](/images/customer_low_income.png)
+
 
 #### Insights:
 
