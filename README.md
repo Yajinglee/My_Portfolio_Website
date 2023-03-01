@@ -78,7 +78,7 @@ The customer details dashboard visualized the customers data including age group
 
 The below screenshot showed the customer who placed order in 2016.
 
-![](/images/customer_detail.png)
+![](/images/customer_details.png)
 
 
 The below screenshot showed the customer who placed order in 2016 with average income.
@@ -93,13 +93,9 @@ The below screenshot showed the customer who placed order in 2016 with low incom
 
 #### Insights:
 
-- More than half of Adventure Work's customers are in their 50s or 60s.
+- The majority customers are of average income and low income. And customers of average income bring more profit than those are of low income. The average amount they spend in one order is higher.
 
-- Mrs. Janet Munoz brought the most profit to Adventure Works with 5 orders.
-
-- Professional, skilled manual, and management accounted for the 3 major occupations of customers.
-
-- 
+- Accessories is the product category that has the most orders, followed by bikes and clothes.
 
 ## [Project 2: Web Scraping GoodReads.com & Built book selection dashboard | Python, Tableau](https://github.com/Yajinglee/Web-Scraping-Project)
 
